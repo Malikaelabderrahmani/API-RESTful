@@ -1,0 +1,2 @@
+Spring Security | API RESTful
+Connexion et inscription pour un etudiant sur n'importe quelle platforme. L'objectif et d'apprendre a construire une API avec Spring, d'avoir une comprehension de base de la securite pour la connexion, et de savoir comment creer une token contenant toutes les informations sur l'utilisateur.
